@@ -1,7 +1,7 @@
 # flame: the searious HTML5 mobile web framework
 
 jQueryMobile is slow. 
-SenchaTouch is nothing to do with HTML5. Ane yes, it's slow, too. 
+SenchaTouch is nothing to do with HTML5. And yes, it's slow, too. 
 
 flame -is- will be the the mobile device only framework targeting advanced mobile devices: iPhone (5.0+), Android (4.0+) and Windows Mobile (7.5+). Coding using normal HTML/CSS, with inuitive programming API, you create lightweight, blazing fast searious mobile application. No lag, no delay, perfect for PhoneGap or other similar technologies. 
 
